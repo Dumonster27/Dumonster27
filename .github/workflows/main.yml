@@ -23,4 +23,4 @@ jobs:
           build_dir: dist
         env:
         GITHUB_TOKEN: ${{ serets.GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ segredos. GITHUB_TOKEN }}
+         
